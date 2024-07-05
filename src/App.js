@@ -1,12 +1,14 @@
 import { Component } from "react"
 import "./App.css"
-import Header from "./components/Header"
+import HeaderComponent from "./components/HeaderComponent"
+import SideBar from "./components/SideBar"
 
 class App extends Component {
   render () {
     return (
       <>
-        <Header/>
+        <HeaderComponent/>
+        <SideBar/>
       </>
 
     )

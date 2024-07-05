@@ -1,0 +1,26 @@
+.side-bar-container {
+    width: 272px;
+    height: 90vh;
+    top: 60px;
+    padding: 20px 16px 16px 16px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tab-container {
+    display: flex;
+}
+.home-icon {
+    width: 17.64px;
+    height: 15.32px;
+    top: 1.68px;
+    left: 0.18px;
+    gap: 0px;
+    opacity: 0px;
+}
+.other-container {
+    display: flex;
+    flex-direction: column;
+}
